@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/https://medium.com/me/stats/post/e33bc02368e9)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
