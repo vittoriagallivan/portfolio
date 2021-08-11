@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/https://medium.com/me/stats/post/e33bc02368e9)
+[Project 1 Title](https://vittoriagallivan.medium.com/tools-that-i-use-as-a-beginner-coder-18e5897d0377)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](google.com)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](apple.com)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
